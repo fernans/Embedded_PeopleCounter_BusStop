@@ -1,0 +1,17 @@
+# === Excluded by decision (third-party tools, not project code) ===
+# Full Arduino IDE installations and toolchains (official distribution)
+arduino-1.5.2/
+arduino-1.0.5/
+arduino-1.5.2-windows.zip
+
+# HyperTerminal session data and binaries (serial debug tool)
+hypertrm.exe
+hypertrm.dll
+arduino_com4.ht
+
+# === OS junk ===
+Thumbs.db
+Desktop.ini
+.DS_Store
+._*
+__MACOSX/
